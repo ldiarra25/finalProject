@@ -1,0 +1,14 @@
+Objective: To make a dice-rolling game 
+
+Algorithm:
+-takes input from the player
+-welcomes the player and thanks them for playing
+-prints a random number between 1 and 6
+
+Pseudocode:
+import random
+
+Say "Welcome."
+Ask "Do you want to roll the dice?"
+if the player inputs "Y" then roll the dice again
+If the player inputs "N" then print "Thanks for playing")
